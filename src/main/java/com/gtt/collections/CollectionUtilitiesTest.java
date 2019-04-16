@@ -55,4 +55,5 @@ public class CollectionUtilitiesTest {
 		Sets.cartesianProduct(Lists.newArrayList(Sets.newHashSet(1, 2), Sets.newHashSet(3, 4))); // 返回所有集合的笛卡尔积
 		Sets.powerSet(Sets.newHashSet(1, 2, 3)); // 返回给定集合的所有子集
 	}
+
 }
